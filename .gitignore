@@ -11,3 +11,15 @@
 *.lai
 *.la
 *.a
+
+# image
+*.jpeg
+*.JPEG
+
+# java
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear

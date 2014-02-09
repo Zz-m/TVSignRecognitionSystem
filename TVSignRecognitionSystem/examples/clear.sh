@@ -1,0 +1,11 @@
+rm -rf result.txt
+rm -rf error.txt
+rm -rf failed.txt
+rm -rf indexFile
+rm -rf ./tempDir/*
+rm -rf ./featureDataDir/*
+rm -rf TEST
+rm -rf TEST_A_PICTURE
+rm -rf MATCH
+rm -rf MATCHDIR
+rm -rf TRAIN
